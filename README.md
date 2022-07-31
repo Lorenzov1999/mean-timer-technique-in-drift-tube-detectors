@@ -6,8 +6,8 @@
 Members of this group:
 | Group 1  |
 | ------------- |
-| Barone Francesco Pio |
 | Valenti Lorenzo |
+| Barone Francesco Pio |
 | Nagaro Gianmarco | 
 | Ninni Daniele |
 
